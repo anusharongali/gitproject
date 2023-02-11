@@ -2,8 +2,6 @@
 
 
 
-my user name is anusha 
+my user name is anusha
+this is my 2nd commit
 
-
-##MIT -Apache 2.0 
-git status
